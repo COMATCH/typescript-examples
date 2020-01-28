@@ -1,0 +1,11 @@
+{
+  "name": "typescript-examples",
+  "version": "1.0.0",
+  "description": "A repo which will be used during the Tech Talk on 29.01.2020",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stanimir Stoychev",
+  "license": "ISC"
+}
